@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1,RadioParadise-RockMix
+http://stream.radioparadise.com/rock-320
+
+#EXTINF:-1,KEXP 90.3 FM Seattle, WA
+http://live-mp3-128.kexp.org/kexp128.mp3

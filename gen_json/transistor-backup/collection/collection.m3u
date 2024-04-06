@@ -1,0 +1,79 @@
+#EXTM3U
+
+#EXTINF:-1,100% Hip Hop | NTS
+https://stream-mixtape-geo.ntslive.net/mixtape2
+
+#EXTINF:-1,Adroit Jazz Underground
+https://icecast.walmradio.com:8443/jazz
+
+#EXTINF:-1,Classic Vinyl HD
+https://icecast.walmradio.com:8443/classic
+
+#EXTINF:-1,FIP
+http://icecast.radiofrance.fr/fip-hifi.aac
+
+#EXTINF:-1,Fip Electro
+http://direct.fipradio.fr/live/fipelectro-hifi.aac
+
+#EXTINF:-1,FIP Hip Hop
+http://icecast.radiofrance.fr/fiphiphop-hifi.aac
+
+#EXTINF:-1,FIP Jazz
+http://icecast.radiofrance.fr/fipjazz-hifi.aac
+
+#EXTINF:-1,FIP Pop
+https://icecast.radiofrance.fr/fippop-hifi.aac
+
+#EXTINF:-1,FIP Rock
+http://icecast.radiofrance.fr/fiprock-hifi.aac
+
+#EXTINF:-1,Jazz Radio Funk
+http://jazz-wr06.ice.infomaniak.ch/jazz-wr06-128.mp3
+
+#EXTINF:-1,KCRW-HD2 -"Eclectic 24"
+http://kcrw.streamguys1.com/kcrw_192k_mp3_e24_internet_radio
+
+#EXTINF:-1,KEXP 90.3 Seattle, WA
+http://live-mp3-128.kexp.org/kexp128.mp3
+
+#EXTINF:-1,KUTX 98.9 FM
+https://kut.streamguys1.com/kutx-free.aac
+
+#EXTINF:-1,Mouv' Classics
+https://icecast.radiofrance.fr/mouvclassics-hifi.aac
+
+#EXTINF:-1,OUI FM
+https://ouifm.ice.infomaniak.ch/ouifm-high.mp3
+
+#EXTINF:-1,OUI FM CLASSIC ROCK
+https://ouifm3.ice.infomaniak.ch/ouifm3.mp3
+
+#EXTINF:-1,OUI FM ROCK INDÉ
+https://ouifm5.ice.infomaniak.ch/ouifm5.mp3
+
+#EXTINF:-1,Radio Eins
+http://radioeins.de/stream
+
+#EXTINF:-1,Radio Nova
+http://novazz.ice.infomaniak.ch/novazz-128.mp3
+
+#EXTINF:-1,Radio Nova Vintage
+http://nova-vnt.ice.infomaniak.ch/nova-vnt-128.mp3
+
+#EXTINF:-1,Radio Paradise 
+https://stream.radioparadise.com/aac-320
+
+#EXTINF:-1,Radio Paradise - Rock Mix
+http://stream.radioparadise.com/rock-320
+
+#EXTINF:-1,Radio Paradise [Eclectic Mix]
+http://stream.radioparadise.com/eclectic-128
+
+#EXTINF:-1,SomaFM Illinois Street Lounge
+http://ice1.somafm.com/illstreet-128-mp3
+
+#EXTINF:-1,SomaFM Left Coast 70s
+http://ice.somafm.com/seventies-320.mp3
+
+#EXTINF:-1,Tout nouveau, tout FIP
+http://icecast.radiofrance.fr/fipnouveautes-hifi.aac
