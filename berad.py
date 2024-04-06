@@ -3,10 +3,12 @@
 import subprocess
 from tabulate import tabulate
 
-from const import *
 from m3u import *
 from audio import *
 from browser import *
+
+command = "bemenu -l 10"
+m3u_file = "/home/antonin/.config/pyrad/radios.m3u"
 
 def prompt_sel(args, items, prompt=""):
     """

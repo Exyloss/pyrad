@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 def append_radio(file, name, url, uuid):
     new_content = ""
     f = open(file, "r")
@@ -55,8 +53,6 @@ def parse_radios(file):
             "url": url
         })
     return radios
-
-
 
 if __name__ == "__main__":
     uuid = "f1db7f30-672c-4406-9419-22ccc6fda025"

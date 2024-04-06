@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 from mpd import MPDClient
 
 client = MPDClient()
@@ -12,5 +10,3 @@ def play(url):
 
 def stop():
     client.delete(0)
-
-
