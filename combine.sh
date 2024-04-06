@@ -14,4 +14,6 @@ zip -r "${project_dir}/$1.zip" *
 cd "$project_dir" || exit 1
 echo '#!/usr/bin/env python3' | cat - "$1".zip > "$1".py
 chmod a+x "$1".py
+
 rm "$1".zip
+rm -rf "$temp_dir"
